@@ -18,10 +18,10 @@ samples, guidance on mobile development, and a full API reference.
 adding two numbers
 
 first number:
-![First number](C:\Users\Acer\Desktop\Screenshot_1733818104.png)
+![First number](https://imgur.com/a/S87lDEx)
 
 second number:
-![Second number](C:\Users\Acer\Desktop\Screenshot_1733818111.png)
+![Second number](https://imgur.com/a/aPJkVXs)
 
 sum result:
-![result number](C:\Users\Acer\Desktop\Screenshot_1733818116.png)
+![result number](https://imgur.com/a/6G1RLZf)
