@@ -18,10 +18,10 @@ samples, guidance on mobile development, and a full API reference.
 adding two numbers
 
 first number:
-![First number](https://imgur.com/a/S87lDEx)
+![First number](https://github.com/nileshshrs/calculator_app/blob/6b749c0789e223b43703c6228e9713d5d79e4e3b/Screenshot_1733818104.png)
 
 second number:
-![Second number](https://imgur.com/a/aPJkVXs)
+![Second number](https://github.com/nileshshrs/calculator_app/blob/6b749c0789e223b43703c6228e9713d5d79e4e3b/Screenshot_1733818111.png)
 
 sum result:
-![result number](https://imgur.com/a/6G1RLZf)
+![result number](https://github.com/nileshshrs/calculator_app/blob/6b749c0789e223b43703c6228e9713d5d79e4e3b/Screenshot_1733818116.png)
