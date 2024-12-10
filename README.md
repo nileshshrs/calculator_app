@@ -14,3 +14,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+adding two numbers
+
+first number:
+![First number](C:\Users\Acer\Desktop\Screenshot_1733818104.png)
+
+second number:
+![Second number](C:\Users\Acer\Desktop\Screenshot_1733818111.png)
+
+sum result:
+![result number](C:\Users\Acer\Desktop\Screenshot_1733818116.png)
